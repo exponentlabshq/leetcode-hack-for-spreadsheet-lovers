@@ -26,6 +26,9 @@ If you're comfortable with spreadsheets and want to learn algorithmic problem-so
 ![Running Sum Problem Visualization](screenshot.png)
 *Visual representation of the Running Sum problem - see how each element builds upon the previous sum, just like cumulative formulas in Excel!*
 
+![Excel Spreadsheet Example](screenshot-sheets-excel.png)
+*How the Running Sum problem looks in an actual Excel spreadsheet - this is exactly what we're trying to replicate in code!*
+
 ### The Solution (Java Code)
 
 ```java
